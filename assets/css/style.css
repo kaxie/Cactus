@@ -70,5 +70,16 @@ div{
 }
 
 
+#scrollable {
+    overflow-x: scroll;
+    white-space: nowrap;
+    width:100%;
+ }
 
+#items {
+  width: 100%; /* itemWidth x itemCount */
+ }
 
+.item{
+  display: inline-block;    
+}
