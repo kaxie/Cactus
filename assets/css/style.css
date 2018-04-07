@@ -35,10 +35,10 @@ img {
     width: 250px;
 }
 
-div{
+/* div{
     border-style: solid;
     border-width: 1px;
-}
+} */
 
 #searchContainer{
     position: relative;
@@ -81,5 +81,18 @@ div{
  }
 
 .item{
-  display: inline-block;    
+  display: inline-block;  
+  background-color: aliceblue;
+  padding-left: 2%;
+  padding-right: 2%;  
+}
+
+.trendingFormat{
+    width: 85%;
+    margin: auto;
+}
+
+.trendingFormat img{
+    width: 100%;
+    height: auto;
 }
