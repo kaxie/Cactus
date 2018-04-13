@@ -85,4 +85,12 @@ div{
     width: 100%;
     height: auto;
 }
+.itemImg{
+    width: 50%;
+    height:70%;
+}
+
+.stockGraph{
+    height: 40%;
+}
 
